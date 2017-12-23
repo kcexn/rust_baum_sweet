@@ -1,0 +1,6 @@
+[package]
+name = "daily_programmer"
+version = "0.1.0"
+authors = ["kevin <068ant@gmail.com>"]
+
+[dependencies]
